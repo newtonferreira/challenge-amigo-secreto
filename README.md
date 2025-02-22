@@ -18,10 +18,10 @@ Este projeto foi desenvolvido como parte do meu programa de estudos com **Oracle
 
 ## Como usar
 
-1.  Clone o repositório oferecido.
-2.  Abra o arquivo `index.html` no seu navegador.
-3.  Digite os nomes dos seus amigos no campo apropriado e clique em "Adicionar".
-4.  Clique em "Sortear amigo" para descobrir o resultado.
+1.  Clone o repositório https://github.com/newtonferreira/challenge-amigo-secreto.git;
+2.  Abra o arquivo `index.html` no seu navegador;
+3.  Digite os nomes dos seus amigos no campo apropriado e clique em "Adicionar";
+4.  Clique em "Sortear amigo" para descobrir o resultado;
 5.  Recarregue a página para iniciar um novo sorteio.
 
 ## Código
